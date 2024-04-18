@@ -4,10 +4,10 @@
 
 ## Interactivity
 - Generate images to screen using mouse interaction
-	function mousePressed() {
-	let r = random(imgs[array]);
-	image(r, mouseX, mouseY);
-	}
+function mousePressed() {
+let r = random(imgs[array]);
+image(r, mouseX, mouseY);
+}
 
 ## Buttons
 - under setup
